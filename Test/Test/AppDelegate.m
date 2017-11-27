@@ -6,6 +6,11 @@
 //  Copyright © 2017年 成品家（北京）网路科技有限公司. All rights reserved.
 //
 
+/*
+适配Xcode 9.0
+ http://blog.csdn.net/chmod_r_755/article/details/78052380
+ */
+
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
